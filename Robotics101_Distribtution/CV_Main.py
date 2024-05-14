@@ -101,6 +101,3 @@ if __name__ == '__main__':
     app.run(debug=False)
     capture_frames = False  # Stop capturing frames when the app exits
     capture_thread.join()  # Wait for the capture thread to finish
-
-
-

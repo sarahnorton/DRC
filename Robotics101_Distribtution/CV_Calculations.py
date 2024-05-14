@@ -1,8 +1,5 @@
 import cv2
 
-
-
-
 def caculate_distance( Focal_Length, Width_px):
     #Return the distance to the camera
     REFRENCE_IMAGE_WIDTH = 3
